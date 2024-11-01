@@ -4,7 +4,7 @@ My corne keyboard layout ⌨️
 
 ## How To Use
 
-Open [usevia.app](https://usevia.app), open the `SAVE + LOAD` menu and load the configuration that have you downloaded
+Open [usevia.app](https://usevia.app), click on the `SAVE + LOAD` menu and load the configuration you have downloaded.
 
 ## Preview
 
