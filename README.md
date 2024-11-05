@@ -10,7 +10,11 @@ Open [usevia.app](https://usevia.app), click on the `SAVE + LOAD` menu and load 
 
 ### Layer 0
 
-![Layer 0](images/layer-0.png)
+QWERTY
+![Layer 0 - QWERTY](images/layer-0-qwerty.png)
+
+Colemak DH
+![Layer 0 - COLEMAK DH](images/layer-0-colemak-dh.png)
 
 ### Layer 1
 
